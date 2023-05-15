@@ -16,7 +16,7 @@
 ## Getting Started
 How to use
 ```    
-git clone https://github.com/aakashjhawar/face-recognition-using-opencv
+git clone https://github.com/superdevgit/FaceRecognition
 cd face-recognition-using-opencv
 ```
  - Create dataset of face images.
